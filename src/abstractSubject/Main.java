@@ -11,5 +11,6 @@ public class Main {
         history.study();
         System.out.println();
         science.study();
+        System.out.println("GitHub");
     }
 }
